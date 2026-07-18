@@ -17,12 +17,17 @@ slug: /intro
 
 ### Modulo 1: SQL Básico
 
-Aprende los conceptos básicos de SQL, incluyendo cómo crear y manipular bases de datos, realizar consultas y comprender la estructura de los datos.
+* Conoce el contexto básico donde se establece la necesidad del uso de consultas mediante SQL. 
 
-Desde las definiciones de bases de datos, su modelamiento y creación, hasta las relaciones de conjuntos de tablas.
+* Aprende los conceptos básicos de SQL, incluyendo cómo crear y manipular bases de datos, realizar consultas y comprender la estructura de los datos.
+
+* Desde las definiciones de bases de datos, su modelamiento y creación, hasta las relaciones de conjuntos de tablas.
 
 
 
 ### Modulo 2: SQL Avanzado
 
-Conoce y aplica técnicas avanzadas de SQL, incluyendo subconsultas, uniones, índices, vistas, creación de funciones y procedimientos almacenados.
+* Conoce y aplica técnicas avanzadas de SQL, incluyendo subconsultas, uniones, índices, vistas.
+* Crea y utiliza funciones y procedimientos almacenados.
+
+### Módulo 3: Análisis avanzado con SQL
