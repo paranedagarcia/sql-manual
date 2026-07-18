@@ -47,6 +47,12 @@ figure {
   margin-inline-end: 0px !important;
 }
 
+figcaption {
+  display: block;
+  text-align: center;
+  font-size: 0.9rem !important;
+}
+
 .markdown h1:first-child {
   --ifm-h1-font-size: 2.6rem !important;
   color: #525f58 !important;
