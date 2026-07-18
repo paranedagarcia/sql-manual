@@ -72,7 +72,7 @@ const config: Config = {
           label: 'Manual',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/paranedagarcia/sql-manual',
           label: 'GitHub',
           position: 'right',
         },
@@ -126,7 +126,7 @@ const config: Config = {
              
               {
                 label: 'GitHub',
-                href: 'https://github.com/paranedagarcia/ia-gestionpublica',
+                href: 'https://github.com/paranedagarcia/sql-manual',
               },
               {
                 label: 'ORCID',
