@@ -1,0 +1,9 @@
+{
+  "label": "Análisis de datos con SQL",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Realiza análisis de datos utilizando SQL y aprende a extraer información valiosa de tus bases de datos.",
+    "slug": "/analisis-sql"
+  }
+}

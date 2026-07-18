@@ -1,0 +1,9 @@
+{
+  "label": "SQL avanzado",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Conoce y aplica técnicas avanzadas de SQL.",
+    "slug": "/sql-avanzado"
+  }
+}
