@@ -97,6 +97,10 @@ const config: Config = {
                 href: 'https://patricioaraneda.cl/ciencia-de-datos/',
               },
               {
+                label: 'Análisis con SQL',
+                href: 'https://patricioaraneda.cl/sql/',
+              },
+              {
                 label: 'Inteligencia Artificial',
                 href: 'https://patricioaraneda.cl/inteligencia-artificial/',
               },

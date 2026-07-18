@@ -6,6 +6,12 @@ sidebar_position: 1
 slug: /intro
 ---
 
+:::warning
+Este manual no está orientado a la administración de bases de datos. Por tanto, no contiene información relativa a control de usuario, roles, etc.
+
+
+:::
+
 # SQL para el análisis de datos
 
 <center>
