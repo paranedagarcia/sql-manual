@@ -28,7 +28,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Fundamentos de SQL',
     image: {
       format: 'png',
-      src: require('@site/static/img/sql_basico.png').default,
+      src: require('@site/static/img/respaldo.png').default,
     },
     description: (
       <>

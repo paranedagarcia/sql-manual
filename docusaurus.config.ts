@@ -1,6 +1,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import {links as footerLinks} from './footer_links';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -80,69 +81,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Otros cursos de la serie',
-            items: [
-              {
-                label: 'Programación en Python',
-                href: 'https://patricioaraneda.cl/python/',
-              },
-              {
-                label: 'Bioestadística',
-                href: 'https://patricioaraneda.cl/bioestadistica/',
-              },
-              {
-                label: 'Ciencia de Datos',
-                href: 'https://patricioaraneda.cl/ciencia-de-datos/',
-              },
-              {
-                label: 'Análisis con SQL',
-                href: 'https://patricioaraneda.cl/sql/',
-              },
-              {
-                label: 'Inteligencia Artificial',
-                href: 'https://patricioaraneda.cl/inteligencia-artificial/',
-              },
-            ],
-        },
-        {
-          title: 'Conecta',
-            items: [
-              {
-                label: 'Website',
-                href: 'https://patricioaraneda.cl',
-              },
-              {
-                label: 'Linkedin',
-                href: 'https://www.linkedin.com/in/patricioaraneda',
-              },
-              {
-                label: 'Whatsapp',
-                href: 'https://wa.me/56978872845',
-              },
-              
-            ],
-        },
-        {
-          title: 'Más',
-            items: [
-             
-              {
-                label: 'GitHub',
-                href: 'https://github.com/paranedagarcia/sql-manual',
-              },
-              {
-                label: 'ORCID',
-                href: 'https://orcid.org/0000-0001-9677-5959',
-              },
-              {
-                label: 'Correo',
-                href: 'mailto:paraneda@ug.uchile.cl',
-              }
-            ],
-        },
-      ],
+      links: footerLinks,
       copyright: `Copyright © ${new Date().getFullYear()} Patricio Araneda G. | Manual SQL, Built with Docusaurus.`,
     },
     prism: {
